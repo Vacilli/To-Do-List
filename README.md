@@ -35,14 +35,14 @@ Development
 
 To start the development server:
 
-npm run dev
+    npm run dev
 
 This command will start the Vite development server. Open http://localhost:5173 in your browser to view the app.
 Build for Production
 
 To build the project for production:
 
-npm run build
+    npm run build
 
 The output files will be located in the dist folder.
 License
